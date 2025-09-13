@@ -1,6 +1,9 @@
 This project implements a Facial Emotion Recognition (FER) system using Python, TensorFlow/Keras, and OpenCV.
 It detects human emotions from facial expressions in images or real-time video streams.
 
+Dataset used 
+FER2013
+
 Features
 
 Train a deep learning model on the FER-2013 dataset
